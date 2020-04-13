@@ -8,9 +8,9 @@
         <span>博客后台管理系统</span>
       </div>
       <div class="user">
-          <div class="avatar_box">
-            <img :src="imgURL" alt="">
-          </div>
+        <div class="avatar_box">
+          <img :src="imgURL" alt="">
+        </div>
         <!-- <el-avatar :size="40" :src="imgURL"></el-avatar> -->
         <el-dropdown trigger="click">
           <span class="el-dropdown-link">
